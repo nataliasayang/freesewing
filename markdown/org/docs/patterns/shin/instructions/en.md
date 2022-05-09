@@ -11,11 +11,13 @@ title: "Shin swim trunks: Sewing Instructions"
 
 Put your two backs on top of each other with the good sides together, and sew them together along the center back seam.
 
+![Sew along the center back seam](step01.png)
+
 ## Step 2: Join the fronts
 
 ### Sew the front seam
 
-Put two of your fronts on top of each other with the good sides together, and sew them together along the center front (crotch) seam.
+Put two of your fronts on top of each other with the good sides together, and sew them together along the center front seam.
 
 Repeat with the two other fronts so you have two identical sets.
 
