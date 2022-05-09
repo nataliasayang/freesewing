@@ -21,6 +21,8 @@ Put two of your fronts on top of each other with the good sides together, and se
 
 Repeat with the two other fronts so you have two identical sets.
 
+![Sew along the center front seam](step02.png)
+
 ### Baste fronts together
 
 We have four fronts because we will have a double layer at the front of our swim trunks.
