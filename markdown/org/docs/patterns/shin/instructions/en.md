@@ -9,19 +9,23 @@ title: "Shin swim trunks: Sewing Instructions"
 
 ## Step 1: Join the backs
 
-Put your two backs on top of each other with the good sides together, and sew them together allong the center back seam.
+Put your two backs on top of each other with the good sides together, and sew them together along the center back seam.
+
+![Sew along the center back seam](step01.png)
 
 ## Step 2: Join the fronts
 
 ### Sew the front seam
 
-Put two of your fronts on top of each other with the good sides together, and sew them together allong the center front seam.
+Put two of your fronts on top of each other with the good sides together, and sew them together along the center front seam.
 
 Repeat with the two other fronts so you have two identical sets.
 
+![Sew along the center front seam](step02.png)
+
 ### Baste fronts together
 
-We have 4 fronts because we'll have a double layer at the front of our swim trunks.
+We have four fronts because we will have a double layer at the front of our swim trunks.
 
 Since swimwear fabric tends to be slippery, it's a good idea to baste your fronts together to make it
 easier to work with them in the next steps.
@@ -41,12 +45,18 @@ and sew the crossseam to create the leg openings.
 
 ## Step 5: Place eyelets for the draw string
 
-Mark the middle of your waistband length. Fold the waistband double, and mark the middle of the width
-(do not take the seam allowance into account).
+<Note>
+  
+##### The drawstring is optional
 
 A bit to the left and right of this, you can add two eyelets to pass a drawstring through.
 This will avoid an embarassing situation when you go for that big dive and now suddenly find your
 swim trunks on your ankles.
+
+</Note>
+
+Mark the middle of your waistband length. Fold the waistband double, and mark the middle of the width
+(do not take the seam allowance into account).
 
 > ### It's best to add some reinforcement
 >
