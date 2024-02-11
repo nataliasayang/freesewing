@@ -105,7 +105,7 @@ export const HowDoesItWorkAnimation = () => {
       else setStep(step + 1)
       if (halfStep > 7) setHalfStep(0)
       else setHalfStep(halfStep + 0.5)
-    }, 800)
+    }, 3200)
   }, [step])
 
   return (
@@ -120,13 +120,13 @@ export const HowDoesItWorkAnimation = () => {
               } absolute top-0 text-center w-full`}
             >
               <div className="w-full flex flex-row items-center h-72 md:h-96 w-full justify-center">
-                {lineDrawings[i]}
+                <img src={`/img/models/model-${i}.png`} className="h-72 md:h-96 shrink-0 px-8" />
               </div>
             </div>
           ))}
         </div>
         <Nr nr={1} />
-        <Title txt={t('pickAnyDesign')} />
+        <Title txt={t('addASet')} />
       </div>
       <div className="relative w-full">
         <div className="relative h-72 md:h-96 overflow-hidden">
@@ -138,12 +138,12 @@ export const HowDoesItWorkAnimation = () => {
               } absolute top-0 text-center w-full`}
             >
               <div className="w-full flex flex-row items-center h-72 md:h-96 w-full justify-center">
-                <img src={`/img/models/model-${i}.png`} className="h-72 md:h-96 shrink-0 px-8" />
+                {lineDrawings[i]}
               </div>
             </div>
           ))}
           <Nr nr={2} />
-          <Title txt={t('addASet')} />
+          <Title txt={t('pickAnyDesign')} />
         </div>
       </div>
       <div className="relative w-full">

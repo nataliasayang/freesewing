@@ -12,7 +12,7 @@ consentLackingMsg: Getting your consent is part of sign up process. Look for the
 contact: Contact support
 contactingGithub: Contacting GitHub
 contactingGoogle: Contacting Google
-createAFreeSewingAccount: Create a FreeSewing account
+createAFreeSewingAccount: Get started
 dontHaveAV2Account: Don't have a v2 account?
 dontHaveAnAccount: Don't have an account yet?
 emailAddress: Email address
@@ -61,7 +61,7 @@ somethingWentWrong: Something went wrong
 sorry: Sorry
 statusLacking: Your account is in a non-active status
 statusLackingMsg: The current status of your account prohibits us from proceeding. The most common reason for this is that you did not complete the onboarding process and thus your account was never activated. You can sign up again with the same email address to remediate this.
-toReceiveSignupLink: To receive a sign-up link, enter your email address
+toReceiveSignupLink: To receive a sign-up link to create your FreeSewing account, enter your email address
 tryAgain: Try again
 usePassword: Use your password
 usernameMissing: Please provide your username
