@@ -74,23 +74,6 @@ const HomePage = ({ page }) => {
       </div>
 
       <div className="max-w-7xl m-auto px-0 -mt-12 mb-24 md:my-24">
-        <div className="flex flex-col gap-8 md:grid md:grid-cols-2 md:gap-4 mt-12 md:mt-20 md:px-4">
-          <Card
-            title={t('homepage:whatIsFreeSewing')}
-            icon={<OkIcon className="w-12 h-12 text-success" stroke={4} />}
-          >
-            <p className="font-medium text-lg">{t('homepage:what1')}</p>
-            <p className="font-medium text-lg">{t('homepage:what3')}</p>
-          </Card>
-          <Card
-            title={t('homepage:whatIsFreeSewingNot')}
-            icon={<NoIcon className="w-12 h-12 text-error" stroke={3} />}
-          >
-            <p className="font-medium text-lg">{t('homepage:whatNot1')}</p>
-            <p className="font-medium text-lg">{t('homepage:whatNot2')}</p>
-          </Card>
-        </div>
-
         <div className="text-center mt-20 md:mt-20">
           <HowDoesItWorkAnimation t={t} />
         </div>

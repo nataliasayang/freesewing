@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: About
 ---
 
 Welcome to the FreeSewing documentation for makers. Here you will find all the [documentation for our various designs](/docs/designs) as
